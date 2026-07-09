@@ -2,9 +2,9 @@
 
 ## Membres du groupe
 
-- Nom Prénom 1 — Ousmane DIENG
-- Nom Prénom 2 — Magatte SAGNA
-- Nom Prénom 3 — Serigne SALIOU MBACKE DIENG
+- Ousmane DIENG
+- Magatte SAGNA
+- Serigne SALIOU MBACKE DIENG
 
 ## Répartition du travail
 
