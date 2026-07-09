@@ -10,7 +10,7 @@
 
 | | Modules / classes développés | Contribution estimée |
 |--------|-------------------------------|----------------------|
-|   | `domaine.py` : Enum, exceptions, `Incident`, `EquipementBase` + classes filles | ...% |
+| Serigne SALIOU MBACKE DIENG  | `domaine.py` : Enum, exceptions, `Incident`, `EquipementBase` + classes filles | ...% |
 |Magatte Sagna |  `main.py`+ `test_projet.py` (scénario de démonstration) | ...% |
 |Ousmane Dieng  | `persistance.py` (JSON, CSV, SQLite, rapports) +  | ...% |
 
